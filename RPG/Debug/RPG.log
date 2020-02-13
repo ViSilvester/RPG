@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\user\DEV\bibliotecas-pessoais\bmp.h(14,16): warning C4101: 'tempRGB': variável local não referenciada
+C:\Users\user\DEV\bibliotecas-pessoais\drawFunctions.h(189,42): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\user\DEV\bibliotecas-pessoais\drawFunctions.h(190,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\user\DEV\bibliotecas-pessoais\drawFunctions.h(191,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\user\DEV\bibliotecas-pessoais\drawFunctions.h(194,17): warning C4244: 'função': conversão de 'float' para 'GLint', possível perda de dados
+C:\Users\user\DEV\bibliotecas-pessoais\drawFunctions.h(194,21): warning C4244: 'função': conversão de 'float' para 'GLint', possível perda de dados
+C:\Users\user\DEV\bibliotecas-pessoais\Janela.h(23,35): warning C4047: 'função': 'LPSTR' difere em níveis de indireção de 'LPSTR *'
+C:\Users\user\DEV\bibliotecas-pessoais\Janela.h(23,35): warning C4024: 'CriarJanela': tipos diferentes para parâmetro formal e real 2
+C:\Users\user\DEV\bibliotecas-pessoais\Janela.h(41,46): warning C4047: 'função': 'LPCWSTR' difere em níveis de indireção de 'LPSTR *'
+C:\Users\user\DEV\bibliotecas-pessoais\Janela.h(41,46): warning C4024: 'CreateWindowExW': tipos diferentes para parâmetro formal e real 2
+C:\Users\user\DEV\bibliotecas-pessoais\Janela.h(41,58): warning C4047: 'função': 'LPCWSTR' difere em níveis de indireção de 'LPSTR *'
+C:\Users\user\DEV\bibliotecas-pessoais\Janela.h(41,58): warning C4024: 'CreateWindowExW': tipos diferentes para parâmetro formal e real 3
+C:\Users\user\DEV\bibliotecas-pessoais\Janela.h(85,33): warning C4133: '=': tipos incompatíveis - de 'LPSTR' para 'LPCWSTR'
+C:\Users\user\DEV\RPG\RPG\main.c(10,35): warning C4047: '=': 'LPSTR *' difere em níveis de indireção de 'unsigned short [14]'
+C:\Users\user\DEV\RPG\RPG\main.c(77,48): warning C4244: '=': conversão de '__int64' para 'double', possível perda de dados
+C:\Users\user\DEV\RPG\RPG\main.c(78,15): warning C4552: '*': o resultado da expressão não é usado
+  RPG.vcxproj -> C:\Users\user\DEV\RPG\Debug\RPG.exe
